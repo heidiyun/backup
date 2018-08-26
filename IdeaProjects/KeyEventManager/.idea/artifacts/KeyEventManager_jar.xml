@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="KeyEventManager:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/KeyEventManager_jar</output-path>
-    <root id="archive" name="KeyEventManager.jar">
-      <element id="module-output" name="KeyEventManager" />
-    </root>
-  </artifact>
-</component>
