@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpriteManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpriteManager_jar</output-path>
+    <root id="archive" name="SpriteManager.jar">
+      <element id="module-output" name="SpriteManager" />
+    </root>
+  </artifact>
+</component>
